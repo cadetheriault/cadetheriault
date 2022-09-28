@@ -2,7 +2,7 @@
 
 ## Description
 
-This game was created for the IEEE Game Jam
+This game was created for the IEEE Game Jam (March 2022)
 The theme for the gamejam was SpaceJam (The Movie)
 
 This game uses the python graphical library Pygame and features infinite level progression
