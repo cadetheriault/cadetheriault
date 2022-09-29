@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ The\ Game\ class\ manages\ the\ game.\ It\ decides\ who\ starts\ and\ enforces\ the\ rules.\ \r\n\ It\ also\ shows\ the\ results\ at\ multiple\ points\ during\ the\ game.\r\n\ \r\n\ Created\ by\:\ Alexandre\ Marques\ and\ Cade\ Theriault\ for\ \r\n\ a\ Carleton\ University\ coding\ competition.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

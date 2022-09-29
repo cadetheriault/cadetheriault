@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Marbles
+comment0.text=\r\n\ The\ Marbles\ class\ represents\ a\ bag\ of\ marbles\r\n\ \r\n\ @attribute\ numberOfMarbles\r\n\r\n\ @method\ addOrSubMarbles(int)\r\n\ \r\n\ Created\ by\:\ Alexandre\ Marques\ and\ Cade\ Theriault\ for\ \r\n\ a\ Carleton\ University\ coding\ competition.\r\n
+comment1.params=
+comment1.target=Marbles()
+comment2.params=
+comment2.target=int\ getNumberOfMarbles()
+comment3.params=number
+comment3.target=int\ addOrSubMarbles(int)
+comment3.text=\r\n\ Add\ or\ substract\ any\ earned\ or\ lost\ marbles\r\n\ @param\ int\ number\ of\ Marbles\ lost\ (negative)\ or\ marbles\ earned\ (positive)\r\n\ @return\ \ \ \ Updated\ number\ of\ marbles\r\n
+numComments=4
