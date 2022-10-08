@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="node_t.h" />
+	<category name="pcb_t.h" />
+	<category name="pcb.c" />
+	<category name="main.c">
+		<category name="Breakpoints">
+			<category name="Breakpoint1">
+				<property name="Line" type="integer">53</property>
+				<property name="Enabled" type="integer">0</property>
+				<property name="HitCount" type="integer">0</property>
+				<property name="Expression" type="string"></property>
+			</category>
+		</category>
+	</category>
+	<category name="Debugger">
+		<category name="Watches">
+			<property name="Watch1" type="string">node</property>
+		</category>
+	</category>
+	<category name="node.c" />
+	<category name="node.h" />
+	<category name="pcb.h" />
+	<category name="structures.h" />
+</settings>
