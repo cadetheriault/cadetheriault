@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="node_t.h" />
+	<category name="pcb_t.h" />
+	<category name="pcb.c">
+		<category name="Window">
+			<property name="Left" type="integer">0</property>
+			<property name="Top" type="integer">0</property>
+			<property name="Right" type="integer">1440</property>
+			<property name="Bottom" type="integer">579</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="main.c">
+		<category name="Window">
+			<property name="Left" type="integer">26</property>
+			<property name="Top" type="integer">26</property>
+			<property name="Right" type="integer">1466</property>
+			<property name="Bottom" type="integer">605</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+		<category name="Breakpoints">
+			<category name="Breakpoint1">
+				<property name="Line" type="integer">53</property>
+				<property name="Enabled" type="integer">0</property>
+				<property name="HitCount" type="integer">0</property>
+				<property name="Expression" type="string"></property>
+			</category>
+		</category>
+	</category>
+	<category name="Debugger">
+		<category name="Watches">
+			<property name="Watch1" type="string">node</property>
+		</category>
+	</category>
+	<category name="node.c">
+		<category name="Window">
+			<property name="Left" type="integer">52</property>
+			<property name="Top" type="integer">52</property>
+			<property name="Right" type="integer">1492</property>
+			<property name="Bottom" type="integer">631</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="node.h" />
+	<category name="pcb.h" />
+	<category name="structures.h" />
+</settings>
